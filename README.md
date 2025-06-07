@@ -31,7 +31,7 @@ This dataset contains information about customers and their purchases for an app
 
 ## Data Description
 
-There were total 3900 unique customers that made a purchase at this store.
+There was a total 3900 unique customers that made a purchase at this store.
 
 The main variables of interest within the dataset were: 
 
@@ -241,7 +241,7 @@ Based on the analysis, the 4 segments that were determined for the store are:
 <br>
 
 
-**Recommendations**
+### Recommendations
 
 * High Value, Satisfied Customers currently bring the most revenue for the store. 
 
